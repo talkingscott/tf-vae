@@ -1,0 +1,6 @@
+model_checkpoint_path: "vae.save-30140"
+all_model_checkpoint_paths: "vae.save-28380"
+all_model_checkpoint_paths: "vae.save-29040"
+all_model_checkpoint_paths: "vae.save-29150"
+all_model_checkpoint_paths: "vae.save-29700"
+all_model_checkpoint_paths: "vae.save-30140"
